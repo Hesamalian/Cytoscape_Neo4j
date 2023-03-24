@@ -1,6 +1,6 @@
 # Cytoscape_Neo4j
 This repository provides an example of building a directed graph in Neo4j and visualizing the results using Cytoscape. 
-The project is explained in https://medium.com/@hesam7631/directed-graph-neo4j-visualization-7cae4c7d89e1
+The project is explained in https://medium.com/@hesamalian/directed-graph-neo4j-visualization-7cae4c7d89e1
 
 It shows how to create a free sample of the AuraDB Neo4j cloud database and import data from a JSON file. The code and instructions provided can be used as a starting point for building more complex graph databases and visualizations.
 
