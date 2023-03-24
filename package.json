@@ -1,0 +1,26 @@
+{
+  "name": "cytoscape-dagre-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "cytoscape": "3.23.0",
+    "cytoscape-dagre": "2.2.2",
+    "cytoscape-expand-collapse": "3.1.2",
+    "cytoscape-popper": "2.0.0",
+    "tippy.js": "6.3.7",
+    "cytoscape-cxtmenu": "3.2.0",
+    "jquery": "3.3.1",
+    "neo4j-driver": "4.2.1"
+  },
+  "devDependencies": {
+    "@types/cytoscape": "3.19.9",
+    "@types/jquery": "3.3.29",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}

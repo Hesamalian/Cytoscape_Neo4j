@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "data": {
+        "id": "n4"
+      }
+    },
+    {
+      "data": {
+        "id": "n5"
+      }
+    },
+    {
+      "data": {
+        "id": "n6"
+      }
+    },
+    {
+      "data": {
+        "id": "n7"
+      }
+    },
+    {
+      "data": {
+        "id": "n8"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "data": {
+        "source": "n4",
+        "target": "n5"
+      }
+    },
+    {
+      "data": {
+        "source": "n4",
+        "target": "n6"
+      }
+    },
+    {
+      "data": {
+        "source": "n6",
+        "target": "n7"
+      }
+    },
+    {
+      "data": {
+        "source": "n6",
+        "target": "n8"
+      }
+    },
+    {
+      "data": {
+        "source": "n5",
+        "target": "n7"
+      }
+    }
+  ]
+}
